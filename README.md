@@ -6,7 +6,7 @@ Un juego de **SeaKingsGames**. Más información en la [página de Pañalazo](ht
 
 ## Descargar
 
-- **Android:** [panalazo.apk](https://github.com/SeaKingsGames/Panalazo/releases/latest/download/panalazo.apk). Ábrelo en tu celular e instálalo (Android pide permiso para instalar apps fuera de Google Play).
+- **Android:** próximamente en Google Play. Mientras, puedes probarlo como tester: sigue los pasos de la [página de Pañalazo](https://www.seakingsstudios.com/proyectos/panalazo#prueba-de-android-en-google-play).
 - **PC con Windows:** [panalazo-windows.zip](https://github.com/SeaKingsGames/Panalazo/releases/latest/download/panalazo-windows.zip). Descomprímelo y abre `Pañalazo.exe`.
 
 Todas las versiones están en [Releases](https://github.com/SeaKingsGames/Panalazo/releases).
